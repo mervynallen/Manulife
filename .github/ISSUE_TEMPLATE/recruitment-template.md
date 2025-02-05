@@ -57,9 +57,13 @@ assignees: mervynallen
  
 7️⃣ Final Approvals
 - [ ]  Receive Email and Code
+- [ ] Setup Outlook
 - [ ]  Obtain Permit to Sell
+- [ ] Setup Epos
+- [ ] Setup Manutouch
+- [ ] EPos and Healthflex Training
 
-8️⃣ Variable Life Licensure
+8️⃣ Product Training Variable Life Licensure
 - [ ]  Review for Variable Life Exams.
 - [ ]  Pass Mock Test
 - [ ]  Schedule Variable Life Exams
